@@ -1,0 +1,24 @@
+make output function so that it can directly output string and variables in the same line (e.g. OUTPUT 'Total:', total)
+
+make array definition function
+
+similar to for loop structure so simple copy paste)
+
+functions/procedure code - luki can take care but far off we need more basic functionality first (will have to use different approach to save function in variable along with parameters and use that code when function is called - ez maybe idk maybe brainfuck)
+
+array (2d) declaration
+
+declaration of multiple variables of same type on same line
+
+else statements
+
+make if statements be able to handle mutliple conditions (in same if statement)
+
+add debugging statements (if error occurs in program, halt program and print which line error occurred in - i think easy to do if we pass line num of command being run as parameters into functions being used)
+
+PERFORMING OPERATIONS with variables (assignment with operations) (e.g. variable <- variable + 1)
+
+debugging for loops (e.g. if end of loop is not found) - luki puki can take care
+
+
+Pseudocode exclsuive functions: (https://pmt.physicsandmathstutor.com/download/Computer-Science/A-level/Past-Papers/CAIE/Spec-2021/Paper-2/IN/November%202022%20(v3)%20IN.pdf)

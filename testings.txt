@@ -1,0 +1,11 @@
+DECLARE index : INTEGER
+DECLARE a : INTEGER
+FOR index <- 1 TO 4
+  OUTPUT index
+  FOR a <- 1 TO 3
+    OUTPUT 'gae boi'
+  next a
+  IF index = 2 THEN
+    OUTPUT 'index is 2 yay'
+  ENDIF
+NEXT index
